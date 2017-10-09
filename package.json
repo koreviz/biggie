@@ -1,0 +1,19 @@
+{
+    "name": "biggie",
+    "version": "0.0.1",
+    "description": "Biggie ...",
+    "dependencies": {
+        "axios": "0.x.x",
+        "debug": "3.x.x",
+        "lodash": "4.x.x",
+        "next": "3.x.x",
+        "react": "15.x.x",
+        "react-dom": "15.x.x",
+        "uuid": ""
+    },
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    }
+}
