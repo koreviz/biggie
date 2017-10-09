@@ -13,7 +13,7 @@ import Card from '../components/item-card';
 
 const log = debug('app:create:log');
 
-const baseUrl = 'http://www.omdbapi.com/';
+const baseUrl = 'https://www.omdbapi.com/';
 const apiKey = 'd3d4974';
 const url = `${baseUrl}?apiKey=${apiKey}`;
 
