@@ -6,7 +6,7 @@
         "axios": "0.x.x",
         "debug": "4.x.x",
         "lodash": "4.x.x",
-        "next": "13.x.x",
+        "next": "14.x.x",
         "react": "18.x.x",
         "react-dom": "18.x.x",
         "uuid": "3.x.x"
